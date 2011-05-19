@@ -1,0 +1,9 @@
+Description: Java code for autonomous, self-charging robot
+Author: M. Kabeer Gharzai
+Class: Senior Design Fall 2010, Group 39
+School: University of Nebraska, Lincoln
+Purpose:
+Testing suite for robot's servos and motors.
+Use the GUI to vary the wheels and motors speeds to select desirable 
+configuration schemes of the testing robot.
+Utilizes the RXTXSerial driver to communicate with the Arduino via USB.
